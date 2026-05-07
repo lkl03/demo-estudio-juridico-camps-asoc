@@ -1,2 +1,7 @@
-# demo-estudio-juridico-camps-asoc
-Demo web para Estudio Juridico Camps &amp; Asoc — diseñada por eterlab.
+# Estudio Juridico Camps & Asoc
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
